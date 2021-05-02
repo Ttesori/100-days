@@ -8,3 +8,4 @@
 ## 5/2/2021
 
 - 2nd day of BCP course, morning session was focused on scope. Added section about functions and hoisting I didn't remember hearing in self-paced course, so that was good. Biggest takeaway: try not to have variables with the same names floating around, it makes things super confusing. Group wasn't interested in pair programming so will probably request solo for afternoon.
+- Finished problems early, so did some more work on math game. Set up functions for starting game and if someone quits before game is over.
