@@ -19,3 +19,4 @@
 ## 5/4/2021
 
 - Worked on a leetcode problem on rotating arrays -- thought I was so cool and could use the solution I came up with for one of the problems last night. But it wasn't efficient enough for LC, but I read some of the hints and came up with another solution that passed. Hooray!
+- Worked on math game, implemented game loop, checking answers. Problems included changing options in a dropdown based upon the input of other fields, parsing answers, updating state and managing callbacks.
