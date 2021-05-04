@@ -65,7 +65,7 @@
 
 ## 5/3/2021
 
-- Worked on 3 Leetcode problems (under easy but way more difficult than Codewars level 8). Thought the platform was cool but I definitely need more practice with algorithms and recognizing certain problem patterns.
+- Worked on 3 Leetcode problems (under easy but way more difficult than Codewars level 8). Thought the platform was cool but I definitely need more practice with algorithms and recognizing certain problem patterns. They had addtional parameters and edge cases that made them really challenging!
 - Covered more array methods in BCP, recorded self solving exercises -- this was the first group in the self-paced class I remember having a really hard time with. But luckily my brain absorbed the solutions because I was able to solve them all this time.
 
 ## 5/2/2021
