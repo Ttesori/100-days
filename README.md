@@ -21,3 +21,7 @@
 - Worked on a leetcode problem on rotating arrays -- thought I was so cool and could use the solution I came up with for one of the problems last night. But it wasn't efficient enough for LC, but I read some of the hints and came up with another solution that passed. Hooray!
 - Worked on math game, implemented game loop, checking answers. Problems included changing options in a dropdown based upon the input of other fields, parsing answers, updating state and managing callbacks.
 - For BCP we covered objects, and some of the workshop problems were...not tough but complicated? I was feeling super tired tonight so I didn't record myself solving them, but I should try to do that from here on out because I think I would have had some trouble explaining why some of my solutions worked.
+
+## 5/5/2021
+
+- Worked on math game, finished testing basic game engine and building out UI and scoreboard. Had to take out sequential order option because figuring out the logic was hurting my brain and it wasn't totally necessary. Would be a nice thing to come back to in the future. Onward!
