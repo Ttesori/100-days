@@ -3,6 +3,7 @@
 ## 5/5/2021
 
 - Worked on math game, finished testing basic game engine and building out UI and scoreboard. Had to take out sequential order option because figuring out the logic was hurting my brain and it wasn't totally necessary. Would be a nice thing to come back to in the future. Onward!
+- In BCP, we went a bit deeper into objects and I was really proud of the way I approached the more involved problems. I'm still doing a bit too much explaining that sounds like guessing, so I need to be a bit more confident in my explanation, but when it comes to actually solving problems well, I'm making progress.
 
 ## 5/4/2021
 
