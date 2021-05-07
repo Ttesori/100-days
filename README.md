@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 5/6/2021
+
+- Attempted 3 CodeWars problems, completed 2 and gave up on the last after trying for about 30 minutes. Dealt with converting an array of digits into a number, adding 1 and then converting it back. Could get basic tests working but not edge cases, boo! Will try again another day.
+- Did some more work on the math game, bought a domain name (6 bucks whaaat). Continuing to test and fix any bugs, want it to be pretty solid before starting on UI.
+- In BCP, we studied passing by value vs. reference -- in JS primitive types are passed by value and objects (arrays, functions, objects) are passed by reference. Noor wasn't feeling well, but we got the workshops from the free class and shared them with everyone. MySplice got me AGAIN, I must have worked on it for 45 minutes before giving up. I was able to do the rest, though. Will watch the solution to MySplice tomorrow and try it again.
+
 ## 5/5/2021
 
 - Worked on math game, finished testing basic game engine and building out UI and scoreboard. Had to take out sequential order option because figuring out the logic was hurting my brain and it wasn't totally necessary. Would be a nice thing to come back to in the future. Onward!
