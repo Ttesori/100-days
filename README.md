@@ -1,5 +1,13 @@
 # 100 Days of Code Log
 
+## 5/7/2021
+
+- In math game, added ability to save scores to local storage.
+- Did 2 level 7 Codewars, both string-related
+- Signed up for pixelarity to access basic HTML templates for portfolio pieces. Could I code these all myself? Absolutely, but this is a great shortcut and a way to update some old portfolio projects.
+- Finally figured out mysplice and was heartened to see that even Noor had problems with it during class. It's just a flipping hard problem lol!
+- Started working on basic portfolio template. Not in love with the code in the template, but it's fine for now. Done is better than perfect!
+
 ## 5/6/2021
 
 - Attempted 3 CodeWars problems, completed 2 and gave up on the last after trying for about 30 minutes. Dealt with converting an array of digits into a number, adding 1 and then converting it back. Could get basic tests working but not edge cases, boo! Will try again another day.
