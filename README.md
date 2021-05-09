@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 5/8/2021
+
+- Worked a bit on portfolio page. Just tweaks!
+- In BCP, we covered higher-order functions. I was pleased that I didn't get tripped up on any of the exercises.
+- Spent a fair amount of time troubleshooting my PHP capstone project, trying to get it to work on Heroku. That didn't work so now I'm going to do a screencast instead.
+
 ## 5/7/2021
 
 - In math game, added ability to save scores to local storage.
