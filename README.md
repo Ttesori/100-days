@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/9/2021
+
+- In BCP, worked on recursion. I was a bit frustrated in the morning session as I didn't breeze through the problems. After getting a few hints, however, I took off and was able to do the rest independently (although some of the more complex problems took a bit to figure out). I definitely need to continue working on my problem solving process and not jumping right in and coding without planning.
+
 ## 5/8/2021
 
 - Worked a bit on portfolio page. Just tweaks!
