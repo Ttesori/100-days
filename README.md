@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 5/10/2021
+
+- Took FSA coding assessment this morning -- way easier than the one I took previously on HackerRank (this one was on Coderbyte) and I'm 97% sure one of the problems was one I had done on Codewars before lol. Already got invited to interview, just trying to decide whether I want to continue to pursue the bootcamp or nah.
+- Did 3 Codewars level 6 probs, focusing on arrays and strings.
+
 ## 5/9/2021
 
 - In BCP, worked on recursion. I was a bit frustrated in the morning session as I didn't breeze through the problems. After getting a few hints, however, I took off and was able to do the rest independently (although some of the more complex problems took a bit to figure out). I definitely need to continue working on my problem solving process and not jumping right in and coding without planning.
