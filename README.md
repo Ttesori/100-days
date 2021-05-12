@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 5/12/2021
+- Did 2 L6 Codewars and added to new codewars repo
+- Watched 100Devs class 24
+- Read Eloquent JS, ch3
+
 ## 5/11/2021
 
 - Did 2 Codewars level 6 probs and one level 5(!!)
