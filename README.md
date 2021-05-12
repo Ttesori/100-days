@@ -1,9 +1,17 @@
 # 100 Days of Code Log
 
+## 5/11/2021
+
+- Did 2 Codewars level 6 probs and one level 5(!!)
+- Read first two chapters of Eloquent Javascript.
+- Began setting up Twitch stuff for maybe some streamed coding (eek!)
+- Did about 15 minutes of Anki
+
 ## 5/10/2021
 
 - Took FSA coding assessment this morning -- way easier than the one I took previously on HackerRank (this one was on Coderbyte) and I'm 97% sure one of the problems was one I had done on Codewars before lol. Already got invited to interview, just trying to decide whether I want to continue to pursue the bootcamp or nah.
 - Did 3 Codewars level 6 probs, focusing on arrays and strings.
+- Began layout of math game with Bootstrap 5
 
 ## 5/9/2021
 
