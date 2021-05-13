@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/13/2021
+- 15 level 8 Codewars problems, ranked up to 5
+- Watched 100Devs class 25-26
+
 ## 5/12/2021
 - Did 2 L6 Codewars and added to new codewars repo
 - Watched 100Devs class 24
