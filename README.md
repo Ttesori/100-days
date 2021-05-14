@@ -3,6 +3,7 @@
 ## 5/13/2021
 - 15 level 8 Codewars problems, ranked up to 5
 - Watched 100Devs class 25-26
+- Finished initial math game styling w/ Bootstrap
 
 ## 5/12/2021
 - Did 2 L6 Codewars and added to new codewars repo
