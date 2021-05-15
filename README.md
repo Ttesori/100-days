@@ -3,6 +3,7 @@
 ## 5/14/2021
 - 20 level 8 Codewars problems
 - Watched 100 Devs classes 27-28
+- Purchased .dev domain name and deployed dev portfolio
 
 ## 5/13/2021
 - 15 level 8 Codewars problems, ranked up to 5
