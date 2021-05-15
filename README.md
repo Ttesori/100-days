@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 5/15/2021
+- Added GA to dev portfolio
+- Added dev portfolio to Linkedin
+- Codewars: 3 level 6kyu kata
+- Watched 100 Devs classes 30-31
+
 ## 5/14/2021
 - 20 level 8 Codewars problems
 - Watched 100 Devs classes 27-28
