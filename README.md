@@ -1,5 +1,14 @@
 # 100 Days of Code Log
 
+## 5/17/2021
+- Created mongo database for wacky holidays, connected to yesterday's API
+- Updated front end to connect to new backend
+
+
+## 5/16/2021
+- Created Node API for wacky holidays and basic frontend
+- Styling for math game
+
 ## 5/15/2021
 - Added GA to dev portfolio
 - Added dev portfolio to Linkedin
