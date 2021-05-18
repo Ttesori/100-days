@@ -1,9 +1,11 @@
 # 100 Days of Code Log
 
+## 5/18/2021
+- Added mongoose into holidays API, then when I was testing I realized that because I had the month and days in the DB as strings, I couldn't sort. Agh! But I figured out how to loop through and resave everything into the database as numbers. Hooray for me! Lol
+
 ## 5/17/2021
 - Created mongo database for wacky holidays, connected to yesterday's API
 - Updated front end to connect to new backend
-
 
 ## 5/16/2021
 - Created Node API for wacky holidays and basic frontend
