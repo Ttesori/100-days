@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/20/2021
+- Watched Class 39 of #100Devs and tonight's live React class!
+- Completed 3 6kyu Codewars problems
+
 ## 5/19/2021
 - Watched Class 38 of #100Devs and @BradTraversy's epic 
 Node/Express/Mongo/OAuth App from Scratch video
