@@ -3,6 +3,8 @@
 ## 5/19/2021
 - Watched Class 38 of #100Devs and @BradTraversy's epic 
 Node/Express/Mongo/OAuth App from Scratch video
+- Worked on math app, learned to create issues in Github and corrected four
+- Began refining styling for math app
 
 ## 5/18/2021
 - Added mongoose into holidays API, then when I was testing I realized that because I had the month and days in the DB as strings, I couldn't sort. Agh! But I figured out how to loop through and resave everything into the database as numbers. Hooray for me! Lol
