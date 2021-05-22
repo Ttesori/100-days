@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/21/2021
+- Watched #100Devs Backend Review and many, many videos on Passport Local
+- After much trial and error, was able to get local auth working on my holidays API app. Biggest problem I was having was ensuring the proper order of files and lines of code in app.js
+
 ## 5/20/2021
 - Watched Class 39 of #100Devs and tonight's live React class!
 - Completed 3 6kyu Codewars problems
