@@ -3,7 +3,7 @@
 ## 5/22/2021
 - Continued watching #100Devs Backend Crash Course
 - Added tags and search to holidays API app
-- Finished refining styles for math game app
+- Finished refining styles for math game app.
 
 ## 5/21/2021
 - Watched #100Devs Backend Review and many, many videos on Passport Local
