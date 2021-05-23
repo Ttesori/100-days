@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/23/2021
+- Began working on styles for admin area of holidays API app
+- Figured out how to implement pagination, which was kind of a bear -- turns out I was overthinking the logic (go figure lol)
+
 ## 5/22/2021
 - Continued watching #100Devs Backend Crash Course
 - Added tags and search to holidays API app
