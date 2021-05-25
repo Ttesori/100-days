@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/24/2021
+- Completed 3 string kata (note to self: getting better at regular expressions would be super-helpful)
+- Worked on styling for admin area of holidays API app -- created a little logo and basic branding, began implementing styles (fun!)
+
 ## 5/23/2021
 - Began working on styles for admin area of holidays API app
 - Figured out how to implement pagination, which was kind of a bear -- turns out I was overthinking the logic (go figure lol)
