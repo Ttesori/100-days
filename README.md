@@ -1,8 +1,12 @@
 # 100 Days of Code Log
 
+## 5/26/2021
+- Completed two 6kyu katas: one on translating morse code and another on determining if a theoretical walk was valid. As usual, submitted and then headdesked at the concise and creative solutions other folks come up with.
+- Wrapped up initial styling of holidays app admin and fixed a quick JS issue.
+
 ## 5/25/2021
 - Completed one 5kyu kata on determining whether words are anagrams and another 6kyu kata on building a tower out of asterisks and spaces -- both were challenging, but fun, and I added .repeat() to my Anki so I don't forget about it!
-- Continued styling holidays app admin - really felt like I made progess here tonight, whee! 
+- Continued styling holidays app admin - really felt like I made progress here tonight, whee! 
 
 ## 5/24/2021
 - Completed 3 string kata (note to self: getting better at regular expressions would be super-helpful)
