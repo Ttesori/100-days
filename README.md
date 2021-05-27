@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/27/2021
+- Completed two 5kyu katas: one on moving zeroes to the end of an array and another on parsing a string of seconds into human-readable time.
+- Fixed mobile styling issues on math game app; learned lesson to emphasize mobile-first design next time!
+
 ## 5/26/2021
 - Completed two 6kyu katas: one on translating morse code and another on determining if a theoretical walk was valid. As usual, submitted and then headdesked at the concise and creative solutions other folks come up with.
 - Wrapped up initial styling of holidays app admin and fixed a quick JS issue.
