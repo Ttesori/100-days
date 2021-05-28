@@ -1,72 +1,88 @@
 # 100 Days of Code Log
 
 ## 5/27/2021
+
 - Completed two 5kyu katas: one on moving zeroes to the end of an array and another on parsing a string of seconds into human-readable time.
-- Fixed mobile styling issues on math game app; learned lesson to emphasize mobile-first design next time!
+- Fixed mobile styling issues on math game and holidays app; learned to emphasize mobile-first design next time!
 
 ## 5/26/2021
+
 - Completed two 6kyu katas: one on translating morse code and another on determining if a theoretical walk was valid. As usual, submitted and then headdesked at the concise and creative solutions other folks come up with.
 - Wrapped up initial styling of holidays app admin and fixed a quick JS issue.
 
 ## 5/25/2021
+
 - Completed one 5kyu kata on determining whether words are anagrams and another 6kyu kata on building a tower out of asterisks and spaces -- both were challenging, but fun, and I added .repeat() to my Anki so I don't forget about it!
-- Continued styling holidays app admin - really felt like I made progress here tonight, whee! 
+- Continued styling holidays app admin - really felt like I made progress here tonight, whee!
 
 ## 5/24/2021
+
 - Completed 3 string kata (note to self: getting better at regular expressions would be super-helpful)
 - Worked on styling for admin area of holidays API app -- created a little logo and basic branding, began implementing styles (fun!)
 
 ## 5/23/2021
+
 - Began working on styles for admin area of holidays API app
 - Figured out how to implement pagination, which was kind of a bear -- turns out I was overthinking the logic (go figure lol)
 
 ## 5/22/2021
+
 - Continued watching #100Devs Backend Crash Course
 - Added tags and search to holidays API app
 - Finished refining styles for math game app.
 
 ## 5/21/2021
+
 - Watched #100Devs Backend Review and many, many videos on Passport Local
 - After much trial and error, was able to get local auth working on my holidays API app. Biggest problem I was having was ensuring the proper order of files and lines of code in app.js
 
 ## 5/20/2021
+
 - Watched Class 39 of #100Devs and tonight's live React class!
 - Completed 3 6kyu Codewars problems
 
 ## 5/19/2021
-- Watched Class 38 of #100Devs and @BradTraversy's epic 
-Node/Express/Mongo/OAuth App from Scratch video
+
+- Watched Class 38 of #100Devs and @BradTraversy's epic
+  Node/Express/Mongo/OAuth App from Scratch video
 - Worked on math app, learned to create issues in Github and corrected four
 - Began refining styling for math app
 
 ## 5/18/2021
+
 - Added mongoose into holidays API, then when I was testing I realized that because I had the month and days in the DB as strings, I couldn't sort. Agh! But I figured out how to loop through and resave everything into the database as numbers. Hooray for me! Lol
 
 ## 5/17/2021
+
 - Created mongo database for wacky holidays, connected to yesterday's API
 - Updated front end to connect to new backend
 
 ## 5/16/2021
+
 - Created Node API for wacky holidays and basic frontend
 - Styling for math game
 
 ## 5/15/2021
+
 - Added GA to dev portfolio
 - Added dev portfolio to Linkedin
 - Codewars: 3 level 6kyu kata
 - Watched 100 Devs classes 30-31
 
 ## 5/14/2021
+
 - 20 level 8 Codewars problems
 - Watched 100 Devs classes 27-28
 - Purchased .dev domain name and deployed dev portfolio
 
 ## 5/13/2021
+
 - 15 level 8 Codewars problems, ranked up to 5
 - Watched 100Devs class 25-26
 - Finished initial math game styling w/ Bootstrap
 
 ## 5/12/2021
+
 - Did 2 L6 Codewars and added to new codewars repo
 - Watched 100Devs class 24
 - Read Eloquent JS, ch3
