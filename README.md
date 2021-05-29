@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 5/28/2021
+
+- Completed a 5kyu kata on validating parentheses -- as typical with these, was more complex than I originally thought.
+- Began designing holidays app front-end...this took awhile to get going, but am finally liking the direction!
+- Attended fantastic #100Devs Remo chat on job hunting. Not there yet, but thankful for the info!
+
 ## 5/27/2021
 
 - Completed two 5kyu katas: one on moving zeroes to the end of an array and another on parsing a string of seconds into human-readable time.
