@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 5/29/2021
+
+- Started working on the front end of the holidays app in React...was able to complete main functionality and basic mobile styling. YAY!
+
 ## 5/28/2021
 
 - Completed a 5kyu kata on validating parentheses -- as typical with these, was more complex than I originally thought.
