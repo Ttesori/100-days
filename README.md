@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 5/30/2021
+
+- Attended the first hour or so of #100Devs office hours before leaving for a family event
+- Continued working on the styling of the holidays app, spent way too long on one sticking point!
+
 ## 5/29/2021
 
 - Started working on the front end of the holidays app in React...was able to complete main functionality and basic mobile styling. YAY!
