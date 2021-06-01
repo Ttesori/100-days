@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 5/31/2021
+
+- Finished up styling of weird holidays app; will need to do more testing but calling it good for now!
+- Began rewriting PHP capstone project from degree in Node
+
 ## 5/30/2021
 
 - Attended the first hour or so of #100Devs office hours before leaving for a family event
