@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/1/2021
+
+- 👀 Attended #100Devs class on React
+- 🧩 Completed two 5kyu kata...and thought to myself again, man I really need to work on regular expressions!
+- 📝 Began writing first blog post on Hashnode: planning to give developers some easy design tips
+
 ## 5/31/2021
 
 - Finished up styling of weird holidays app; will need to do more testing but calling it good for now!
