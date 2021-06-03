@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/2/2021
+
+- 🧩 Completed two 5kyu kata - one on finding a sum of pairs with < O(n²) time complexity (🤯) and one on converting HEX colors to RGB (fun!)
+- 🤝 Set up a group to work with for #100Devs group project (shoutout to @BenjaminWebDev!)
+- 👩‍💻 Continued work on PHP-to-Node expense tracker project: finished up CRUD functionality for expenses 💪
+
 ## 6/1/2021
 
 - 👀 Attended #100Devs class on React
