@@ -1,18 +1,24 @@
 # 100 Days of Code Log
 
-## 6/3/2021
+## 6/4/2021 (Day 35)
+
+- 🧩 Two 6kyu kata - a dubstep translator (lol) and finding equal sides of an array.
+- 👩‍💻 Continued work on expense tracker project; added modals, user settings and reports.
+- 📝 Published first post on @hashnode on easy design tips for developers: https://bit.ly/34NyP3l
+
+## 6/3/2021 (Day 34)
 
 - 🧩 Two 6kyu kata - one on diffing arrays and one on counting bits.
 - 👩‍💻 Continued work on expense tracker project; learned the importance of using .lean() with Mongoose results
 - 👀 Attended #100Devs class on Twitch but chickened out when it moved over to Remo for group work 😬
 
-## 6/2/2021
+## 6/2/2021 (Day 33)
 
 - 🧩 Completed two 5kyu kata - one on finding a sum of pairs with < O(n²) time complexity (🤯) and one on converting HEX colors to RGB (fun!)
 - 🤝 Set up a group to work with for #100Devs group project (shoutout to @BenjaminWebDev!)
 - 👩‍💻 Continued work on PHP-to-Node expense tracker project: finished up CRUD functionality for expenses 💪
 
-## 6/1/2021
+## 6/1/2021 (Day 32)
 
 - 👀 Attended #100Devs class on React
 - 🧩 Completed two 5kyu kata...and thought to myself again, man I really need to work on regular expressions!
