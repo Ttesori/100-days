@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/3/2021
+
+- 🧩 Two 6kyu kata - one on diffing arrays and one on counting bits.
+- 👩‍💻 Continued work on expense tracker project; learned the importance of using .lean() with Mongoose results
+- 👀 Attended #100Devs class on Twitch but chickened out when it moved over to Remo for group work 😬
+
 ## 6/2/2021
 
 - 🧩 Completed two 5kyu kata - one on finding a sum of pairs with < O(n²) time complexity (🤯) and one on converting HEX colors to RGB (fun!)
