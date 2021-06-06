@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/5/2021 (Day 36)
+
+- 👩‍💻 Continued work on expense tracker project; completed basic functionality and initial styling.
+- 🐞 Fixed a pesky bug where click events weren't working on mobile - super weird, but so satisfying to figure out!
+- 🤝 Met with #100Devs group and commented a recent backened project's code together - this was a great exercise!
+
 ## 6/4/2021 (Day 35)
 
 - 🧩 Two 6kyu kata - a dubstep translator (lol) and finding equal sides of an array.
