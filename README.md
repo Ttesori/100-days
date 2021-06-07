@@ -1,10 +1,15 @@
 # 100 Days of Code Log
 
+## 6/6/2021
+
+- 👩‍💻 Continued work on Node/Express expense tracker project; refined styling and functionality. Even made a print stylesheet for the first time in a hot minute!
+- 📅 Planned weekly coding activities in Trello and scheduled coding time in my calendar (thanks for the reminder, @scrimba)!
+
 ## 6/5/2021 (Day 36)
 
 - 👩‍💻 Continued work on expense tracker project; completed basic functionality and initial styling.
 - 🐞 Fixed a pesky bug where click events weren't working on mobile - super weird, but so satisfying to figure out!
-- 🤝 Met with #100Devs group and commented a recent backened project's code together - this was a great exercise!
+- 🤝 Met with #100Devs group and commented a recent backend project's code together - this was a great exercise!
 
 ## 6/4/2021 (Day 35)
 
