@@ -2,9 +2,9 @@
 
 ## 6/8/2021 (Day 39)
 
-- Attended @treehouse Festival and heard inspiring talks from @jaeintech and @ajunaky
-- Designed landing page for expense tracker app and began coding
-- Started feeling an inkling of burnout...hoping it's just a vulnerability hangover from posting my project earlier today!
+- 🙌 Attended @treehouse Festival and heard inspiring talks from @jaeintech and @ajunaky
+- 👩‍💻 Designed landing page for expense tracker app and began coding
+- 🎨 Wanted to do something different so started @kevinpowell's Responsive Web Design course on @scrimba
 
 ## 6/7/2021 (Day 38)
 
