@@ -1,6 +1,12 @@
 # 100 Days of Code Log
 
-## 6/6/2021
+## 6/7/2021 (Day 38)
+
+- 🗣 Attended @treehouse Festival and heard some incredibly inspiring speakers!
+- 📝 Began writing my second blog post for @hashnode - another design-related topic, but trying to give it some pizazz ✨
+- 👩‍💻 Created Node practice app to go over concepts for group project work. Learned file uploading, whee!
+
+## 6/6/2021 (Day 37)
 
 - 👩‍💻 Continued work on Node/Express expense tracker project; refined styling and functionality. Even made a print stylesheet for the first time in a hot minute!
 - 📅 Planned weekly coding activities in Trello and scheduled coding time in my calendar (thanks for the reminder, @scrimba)!
