@@ -1,10 +1,15 @@
 # 100 Days of Code Log
 
+## 6/9/2021 (Day 40)
+
+- 🙌 Attended more fantastic sessions at @treehouse festival - Shannon from @Join_Tribaja on finding a job (and your tribe!) and @EmSchw's amazing Sleeping Beauty-themed presentation on slaying imposter syndrome!
+- 🎨 Continued work on @kevinjpowell's Responsive Web Design course - I really empathize with him on how hard it is to pronounce 'specificity' 😂
+
 ## 6/8/2021 (Day 39)
 
 - 🙌 Attended @treehouse Festival and heard inspiring talks from @jaeintech and @ajunaky
 - 👩‍💻 Designed landing page for expense tracker app and began coding
-- 🎨 Wanted to do something different so started @kevinpowell's Responsive Web Design course on @scrimba
+- 🎨 Wanted to do something different so started @kevinjpowell's Responsive Web Design course on @scrimba
 
 ## 6/7/2021 (Day 38)
 
