@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/10/2021 (Day 41)
+
+- 🙌 Attended the inspiring first day of @WomenWhoCode's conference. So many wonderful sessions from @KeshaWillz
+  @mycodinghabits @aritdeveloper @tashHendrick @susansivek and others! And it was great to see so many #100Devs 👋 @Blawblawblaw @tamsaucee @theDevbee. Can't wait for Day 2!
+- 👩‍💻 Implemented charts in expense tracker app - still have to refine the styling, but the basic functionality is in!
+
 ## 6/9/2021 (Day 40)
 
 - 🙌 Attended more fantastic sessions at @treehouse festival - Shannon from @Join_Tribaja on finding a job (and your tribe!) and @EmSchw's amazing Sleeping Beauty-themed presentation on slaying imposter syndrome!
