@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 6/12/2012 (Day 43)
+
+- 👩‍💻 Worked on finishing up v1 of the expense tracker app. Finally wrapped up styling login and register pages - don't know why I put this off for so long, I love them! Big things left are testing responsiveness and accessibility.
+- 🤝 Became familiar with the inner workings of replit when working on setup for group project app - a really impressive, powerful application!
+
 ## 6/11/2012 (Day 42)
 
 - 🙌 Attended day 2 of the @WomenWhoCode conference - more wonderful sessions from @_tiffanydawson_ @isabelcmdcosta @Dominika_M @Shona_k and so many others!
