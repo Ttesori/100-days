@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 6/11/2012 (Day 42)
+
+- 🙌 Attended day 2 of the @WomenWhoCode conference - more wonderful sessions from @_tiffanydawson_ @isabelcmdcosta @Dominika_M @Shona_k and so many others!
+- 🤝 Had a group meeting to flesh out the details of our project - this is going to be a fun one!
+- 👀 Met with @leonnoel and the #100Devs community for a job search pep talk - it was wonderful and needed!
+
 ## 6/10/2021 (Day 41)
 
 - 🙌 Attended the inspiring first day of @WomenWhoCode's conference. So many wonderful sessions from @KeshaWillz
