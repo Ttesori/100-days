@@ -1,11 +1,20 @@
 # 100 Days of Code Log
 
-## 6/12/2012 (Day 43)
+## 6/14/2021 (Day 45)
+
+- 👩‍💻 Continued work on React grocery list app; spent time figuring out how to use react-beautiful-dnd, but it was certainly easier than implementing drag and drop from scratch! Now just thinking about how to organize components and app...
+
+## 6/13/2021 (Day 44)
+
+- 👩‍💻 Got Expense Tracker deployed and I'm gonna call it good for now. Will share a link super soon!
+- 🛒 Already started on the next thing 😂 It is going to be a React project (hooray!) for putting your grocery list in the order that you traverse the store. I've been doing this manually for years, going to be nice to have an app for it! First step is figuring out drag & drop...
+
+## 6/12/2021 (Day 43)
 
 - 👩‍💻 Worked on finishing up v1 of the expense tracker app. Finally wrapped up styling login and register pages - don't know why I put this off for so long, I love them! Big things left are testing responsiveness and accessibility.
 - 🤝 Became familiar with the inner workings of replit when working on setup for group project app - a really impressive, powerful application!
 
-## 6/11/2012 (Day 42)
+## 6/11/2021 (Day 42)
 
 - 🙌 Attended day 2 of the @WomenWhoCode conference - more wonderful sessions from @_tiffanydawson_ @isabelcmdcosta @Dominika_M @Shona_k and so many others!
 - 🤝 Had a group meeting to flesh out the details of our project - this is going to be a fun one!
