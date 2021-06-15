@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/15/2021 (Day 46)
+
+- 👩‍💻 Kept working on React grocery list app - got CRUD functionality for stores working, yay! Also attempted to come up with a plan for organizing components...which I sort of implemented, but also turned into kind of a mess 😂 So far I've learned quite a bit about routing and state management! 👍
+
 ## 6/14/2021 (Day 45)
 
 - 👩‍💻 Continued work on React grocery list app; spent time figuring out how to use react-beautiful-dnd, but it was certainly easier than implementing drag and drop from scratch! Now just thinking about how to organize components and which parts to work on first...
