@@ -2,7 +2,7 @@
 
 ## 6/14/2021 (Day 45)
 
-- 👩‍💻 Continued work on React grocery list app; spent time figuring out how to use react-beautiful-dnd, but it was certainly easier than implementing drag and drop from scratch! Now just thinking about how to organize components and app...
+- 👩‍💻 Continued work on React grocery list app; spent time figuring out how to use react-beautiful-dnd, but it was certainly easier than implementing drag and drop from scratch! Now just thinking about how to organize components and which parts to work on first...
 
 ## 6/13/2021 (Day 44)
 
