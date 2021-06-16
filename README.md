@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/16/2021 (Day 47)
+
+- 👩‍💻 Continued to chip away at the React grocery list app - started working on the list creation portion, but my brain was noooot firing on all cylinders, so I didn't get as much done as I would have liked. Hoping I get a good night's sleep tonight and tomorrow is better! 😴
+
 ## 6/15/2021 (Day 46)
 
 - 👩‍💻 Kept working on React grocery list app - got CRUD functionality for stores working, yay! Also attempted to come up with a plan for organizing components...which I sort of implemented, but also turned into kind of a mess 😂 So far I've learned quite a bit about routing and state management! 👍
