@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/17/2021 (Day 48)
+
+- 👩‍💻 Still working on React grocery list app...it seemed every time I fixed something, I introduced another problem or realized some additional complexity. I also try to keep optimizing/organizing my code before getting it stable, which I know is a no-no. I just can't help it lol!
+
 ## 6/16/2021 (Day 47)
 
 - 👩‍💻 Continued to chip away at the React grocery list app - started working on the list creation portion, but my brain was noooot firing on all cylinders, so I didn't get as much done as I would have liked. Hoping I get a good night's sleep tonight and tomorrow is better! 😴
