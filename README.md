@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/18/2021 (Day 49)
+
+- 👩‍💻 I'm continuing to make slow but steady progress on the React app...got basic functionality working, so the next step will be adding authentication and storage. Before all that though, I've got to do some styling because looking at this plain app all day is making me sad 😭
+
 ## 6/17/2021 (Day 48)
 
 - 👩‍💻 Still working on React grocery list app...it seemed every time I fixed something, I introduced another problem or realized some additional complexity. I also try to keep optimizing/organizing my code before getting it stable, which I know is a no-no. I just can't help it lol!
