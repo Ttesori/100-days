@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/19/2021 (Day 50)
+
+- Halfway through! My brain was mostly like nahhh after driving today, but I did start researching authentication and database options for React. Should I go with Firebase? AWS Amplify? Serverless? Trying to figure it out!
+
 ## 6/18/2021 (Day 49)
 
 - 👩‍💻 I'm continuing to make slow but steady progress on the React app...got basic functionality working, so the next step will be adding authentication and storage. Before all that though, I've got to do some styling because looking at this plain app all day is making me sad 😭
