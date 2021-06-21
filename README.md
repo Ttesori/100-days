@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/20/2021 (Day 51)
+
+- 👩‍💻 Zomg actual progress on the React authentication/database front today 🎉 I spent what felt like forever trying to figure out how to use Firebase Auth and Firestore, but I finally got auth implemented and have 1 of my data structures using the database. _cue happy dance_
+
 ## 6/19/2021 (Day 50)
 
 - Halfway through! My brain was mostly like nahhh after driving today, but I did start researching authentication and database options for React. Should I go with Firebase? AWS Amplify? Serverless? Trying to figure it out!
