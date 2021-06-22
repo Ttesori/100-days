@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 6/22/2021 (Day 53)
+- 👩‍💻 Set up the production environment for the React grocery app - hosting and database permissions. Figuring out the Firestore security rules was crazy, but I did it, woot! Also started some basic UI work on XD, soo excited to get some styling on this app so I'm not looking at grey blah-ness!
+- 👀 #100Devs class & WWC Tampa meeting, both on technical interviewing!
+
+
 ## 6/21/2021 (Day 52)
 
 - 👩‍💻 More progress on the React app...finished up database integration - once I got the hang of Firestore it was pretty user-friendly! Also decided to add Tailwind to this project - not sure how I feel about all the class names on the elements, but I like the @apply syntax, so I can use them more like shortcuts! Cue everyone telling me how this is a horrible way to use Tailwind...
