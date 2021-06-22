@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/21/2021 (Day 52)
+
+- 👩‍💻 More progress on the React app...finished up database integration - once I got the hang of Firestore it was pretty user-friendly! Also decided to add Tailwind to this project - not sure how I feel about all the class names on the elements, but I like the @apply syntax, so I can use them more like shortcuts! Cue everyone telling me how this is a horrible way to use Tailwind...
+
 ## 6/20/2021 (Day 51)
 
 - 👩‍💻 Zomg actual progress on the React authentication/database front today 🎉 I spent what felt like forever trying to figure out how to use Firebase Auth and Firestore, but I finally got auth implemented and have 1 of my data structures using the database. _cue happy dance_
