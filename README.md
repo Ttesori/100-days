@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/24/2021 (Day 55)
+
+- 👩‍💻 Continued work on designing mockups for React app and began basic mobile styling of the bare bones home page. You guys, I think I like Tailwind a lot? Instead of inline classes, I'm primarily using @apply with my own classes and it's still saving me a ton of time!
+
 ## 6/23/2021 (Day 54)
 
 - 🧩 Took a bit of a break today and did a few Leetcode problems - going to try to keep doing one or so of these a day to work on my problem-solving skills.
