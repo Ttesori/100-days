@@ -1,9 +1,14 @@
 # 100 Days of Code Log
 
+## 6/23/2021 (Day 54)
+
+- 🧩 Took a bit of a break today and did a few Leetcode problems - going to try to keep doing one or so of these a day to work on my problem-solving skills.
+- 👩‍💻 Did a bit of cleanup/organization and accessibility work on the React app, but nothing too major
+
 ## 6/22/2021 (Day 53)
+
 - 👩‍💻 Set up the production environment for the React grocery app - hosting and database permissions. Figuring out the Firestore security rules was crazy, but I did it, woot! Also started some basic UI work on XD, soo excited to get some styling on this app so I'm not looking at grey blah-ness!
 - 👀 #100Devs class & WWC Tampa meeting, both on technical interviewing!
-
 
 ## 6/21/2021 (Day 52)
 
