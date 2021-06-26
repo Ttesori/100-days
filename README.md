@@ -2,7 +2,7 @@
 
 ## 6/26/2021 (Day 57)
 
-- Kept working on styling for the React grocery list app! Not too much to say today - making 🐢-like progress, but it's progress nonetheless!
+- 👩‍💻 Kept working on styling for the React grocery list app! Not too much to say today - making 🐢-like progress, but it's progress nonetheless!
 
 ## 6/25/2021 (Day 56)
 
