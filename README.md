@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/25/2021 (Day 56)
+
+- 👩‍💻 Knocked out a Leetcode problem this morning and then continued work on styling the React grocery app. Still really digging Tailwind (to my complete shock), and am just methodically going through the screens and styling up each one based on the mockups I made earlier this week. Slow but steady progress! 🐢
+
 ## 6/24/2021 (Day 55)
 
 - 👩‍💻 Continued work on designing mockups for React app and began basic mobile styling of the bare bones home page. You guys, I think I like Tailwind a lot? Instead of inline classes, I'm primarily using @apply with my own classes and it's still saving me a ton of time!
