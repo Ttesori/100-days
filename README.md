@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/26/2021 (Day 57)
+
+- Kept working on styling for the React grocery list app! Not too much to say today - making 🐢-like progress, but it's progress nonetheless!
+
 ## 6/25/2021 (Day 56)
 
 - 👩‍💻 Knocked out a Leetcode problem this morning and then continued work on styling the React grocery app. Still really digging Tailwind (to my complete shock), and am just methodically going through the screens and styling up each one based on the mockups I made earlier this week. Slow but steady progress! 🐢
