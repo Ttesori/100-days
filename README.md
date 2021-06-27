@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/27/2021 (Day 58)
+
+- 👩‍💻 You guessed it, I kept working on styling the React grocery list app! Couple of notes from today: 1) be sure to use the correct font-family and font-weight when using a FontAwesome icon as a checkmark and 2) use -webkit-fill-available to vertically center content properly on mobile. 👍
+
 ## 6/26/2021 (Day 57)
 
 - 👩‍💻 Kept working on styling for the React grocery list app! Not too much to say today - making 🐢-like progress, but it's progress nonetheless!
