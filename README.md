@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/28/2021 (Day 59)
+
+- 👩‍💻 Kept working on styling Grocery Mapper - added loading animation and tested the styling I've done so far, refining a few things here and there. Nothing ready for prime time tonight - hopefully I'll have a new video to share tomorrow 👍
+
 ## 6/27/2021 (Day 58)
 
 - 👩‍💻 You guessed it, I kept working on styling the React grocery list app! Couple of notes from today: 1) be sure to use the correct font-family and font-weight when using a FontAwesome icon as a checkmark and 2) use -webkit-fill-available to vertically center content properly on mobile. 👍
