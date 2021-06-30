@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 6/30/2021 (Day 61)
+
+- 👩‍💻 Got back to work styling GroceryMapper, mostly the 'Add New List' page. Was a bit stuck on styling alerts; I def need to work on my CSS animation skills lol! I've noticed when I get to the point in a project where there's a bunch of little things to work on but nothing major, I end up wasting time figuring out what to do first!
+
 ## 6/29/2021 (Day 60)
 
 - 👀 Attended #100Devs class on using Microsoft Cognitive Services to utilize machine learning in our applications. So cool - we built the hot dog/not hot dog app from Silicon Valley 😂
