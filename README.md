@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 6/29/2021 (Day 60)
+
+- 👀 Attended #100Devs class on using Microsoft Cognitive Services to utilize machine learning in our applications. So cool - we built the hot dog/not hot dog app from Silicon Valley 😂
+- 👩‍💻 Did one single solitary Leetcode problem...I did not even open up GroceryMapper today! 😬
+
 ## 6/28/2021 (Day 59)
 
 - 👩‍💻 Kept working on styling Grocery Mapper - added loading animation and tested the styling I've done so far, refining a few things here and there. Nothing ready for prime time tonight - hopefully I'll have a new video to share tomorrow 👍
