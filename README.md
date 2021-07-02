@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 7/1/2021 (Day 62)
+
+- 👩‍💻 Did one Codewars and one Leetcode problem!
+- 👀 Attended #100Devs class on @Azure Cognitive Services - learned how to use the speech recognition and translation. Amazing!
+- Hung out with OCC as she attempted to play Flexbox Froggy while the 100Devs group showed out lol
+
 ## 6/30/2021 (Day 61)
 
 - 👩‍💻 Got back to work styling GroceryMapper, mostly the 'Add New List' page. Was a bit stuck on styling alerts; I def need to work on my CSS animation skills lol! I've noticed when I get to the point in a project where there's a bunch of little things to work on but nothing major, I end up wasting time figuring out what to do first!
