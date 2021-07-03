@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 7/2/2021 (Day 63)
+
+- 👩‍💻 Added 'Email List to Friend' functionality to GroceryMapper - discovered in the process that on Netlify needs an \_redirects file in the /public folder to make it play nicely with BrowserRouter. Hoping by writing this down I'll remember it next time!
+- 🐞 Broke list updating whoops! I added a new field that was defaulting to undefined and Firestore did NOT like that - had to use an empty string instead!
+
 ## 7/1/2021 (Day 62)
 
 - 👩‍💻 Did one Codewars and one Leetcode problem!
