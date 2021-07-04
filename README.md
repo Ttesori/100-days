@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/3/2021 (Day 64)
+
+- 👩‍💻 Spent the day procrastinating working on the desktop version of the grocery list app because I'm completely drawing a blank on the design. I open xD, move some boxes around, think 'nope,' and go back to tweaking the mobile version 😂...procrastination activities today included adding Twitter and Google login options so at least I did something useful!
+
 ## 7/2/2021 (Day 63)
 
 - 👩‍💻 Added 'Email List to Friend' functionality to GroceryMapper - discovered in the process that on Netlify needs an \_redirects file in the /public folder to make it play nicely with BrowserRouter. Hoping by writing this down I'll remember it next time!
