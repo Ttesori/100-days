@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/4/2021 (Day 65)
+
+- I finally quit my procrastinating and got serious about working on the desktop design for my grocery list app 😂 I'm not in love with it, but I think it's good enough for me to begin coding, so hopefully I can make some headway on that tomorrow. No hope of concentrating on any serious coding tonight with errrryone around me shooting off fireworks lol 🎆
+
 ## 7/3/2021 (Day 64)
 
 - 👩‍💻 Spent the day procrastinating working on the desktop version of the grocery list app because I'm completely drawing a blank on the design. I open xD, move some boxes around, think 'nope,' and go back to tweaking the mobile version 😂...procrastination activities today included adding Twitter and Google login options so at least I did something useful!
