@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/5/2021 (Day 65)
+
+- Ugh, my first zero day! I opened up my computer and started to code, but after about 15 minutes I wasn't focusing, accomplishing anything or even enjoying the process 😂 I haven't slept well for a couple of nights, so I'm chalking it up as an indication that it's time to focus on self-care and take a night off!
+
 ## 7/4/2021 (Day 65)
 
 - I finally quit my procrastinating and got serious about working on the desktop design for my grocery list app 😂 I'm not in love with it, but I think it's good enough for me to begin coding, so hopefully I can make some headway on that tomorrow. No hope of concentrating on any serious coding tonight with errrryone around me shooting off fireworks lol 🎆
