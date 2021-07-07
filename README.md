@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/6/2021 (Day 66)
+
+- Attended 100Devs class, which is always incredibly motivational and inspiring. So many incredible folks working hard to get tech jobs and better their lives and their communities - I love it! Other than that, a low-tech day - helped my parents buy their first house in 30 years...so that was quite the experience 🤪
+
 ## 7/5/2021 (Day 65)
 
 - Ugh, my first zero day! I opened up my computer and started to code, but after about 15 minutes I wasn't focusing, accomplishing anything or even enjoying the process 😂 I haven't slept well for a couple of nights, so I'm chalking it up as an indication that it's time to focus on self-care and take a night off!
