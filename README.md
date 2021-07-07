@@ -2,15 +2,15 @@
 
 ## 7/6/2021 (Day 66)
 
-- Attended 100Devs class, which is always incredibly motivational and inspiring. So many incredible folks working hard to get tech jobs and better their lives and their communities - I love it! Other than that, a low-tech day - helped my parents buy their first house in 30 years...so that was quite the experience 🤪
+- 👀 Attended 100Devs class, which is always incredibly motivational and inspiring. So many incredible folks working hard to get tech jobs and better their lives and their communities - I love it! Other than that, a low-tech day - helped my parents buy their first house in 30 years...so that was quite the experience 🤪
 
 ## 7/5/2021 (Day 65)
 
-- Ugh, my first zero day! I opened up my computer and started to code, but after about 15 minutes I wasn't focusing, accomplishing anything or even enjoying the process 😂 I haven't slept well for a couple of nights, so I'm chalking it up as an indication that it's time to focus on self-care and take a night off!
+- 🚫 Ugh, my first zero day! I opened up my computer and started to code, but after about 15 minutes I wasn't focusing, accomplishing anything or even enjoying the process 😂 I haven't slept well for a couple of nights, so I'm chalking it up as an indication that it's time to focus on self-care and take a night off!
 
 ## 7/4/2021 (Day 65)
 
-- I finally quit my procrastinating and got serious about working on the desktop design for my grocery list app 😂 I'm not in love with it, but I think it's good enough for me to begin coding, so hopefully I can make some headway on that tomorrow. No hope of concentrating on any serious coding tonight with errrryone around me shooting off fireworks lol 🎆
+- 👩‍💻 I finally quit my procrastinating and got serious about working on the desktop design for my grocery list app 😂 I'm not in love with it, but I think it's good enough for me to begin coding, so hopefully I can make some headway on that tomorrow. No hope of concentrating on any serious coding tonight with errrryone around me shooting off fireworks lol 🎆
 
 ## 7/3/2021 (Day 64)
 
