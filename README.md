@@ -1,5 +1,15 @@
 # 100 Days of Code Log
 
+## 7/8/2021 (Day 68)
+
+- 🧩 Completed 100Devs daily problem - was really stumped for ~30mins but finally figured out the answer by examining the test cases. Also learned about the Set data structure in JS!
+- 👩‍💻 Continued work on the desktop design for grocery app - just a few odds and ends to test and tweak and then an initial (very imperfect!) version should be ready for y'all to try out - yay!
+
+## 7/7/2021 (Day 67)
+
+- 🧩 Completed 100Devs Daily Coding Challenge using .reduce() - getting better at these methods! Also attended a quick standup where we went over the problem/solution, which was really helpful.
+- 👩‍💻 Back to work on desktop design for GroceryMapper - actually made good progress today. It was nice to get back to it after a couple of days away!
+
 ## 7/6/2021 (Day 66)
 
 - 👀 Attended 100Devs class, which is always incredibly motivational and inspiring. So many incredible folks working hard to get tech jobs and better their lives and their communities - I love it! Other than that, a low-tech day - helped my parents buy their first house in 30 years...so that was quite the experience 🤪
