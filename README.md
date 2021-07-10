@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 7/10/2021 (Day 70)
+
+- 👩‍💻 I still have some testing to do tomorrow, but I think I'm at a solid version 1 stopping place for the React GroceryMapper app! Yay!
+- 🎨 Finally checked CSS Grid Garden off of my to-do list! So now I'm going through @wesbos' CSS Grid course to deepen my learning and help it all sink in.
+
 ## 7/9/2021 (Day 69 👀)
 
 - 👩‍💻 Still working on grocery app desktop design. But I've moved on to the landing/home page now. The finish line is in sight!
