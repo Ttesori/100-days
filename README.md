@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 7/9/2021 (Day 69 👀)
+
+- 👩‍💻 Still working on grocery app desktop design. But I've moved on to the landing/home page now. The finish line is in sight!
+- 🧩 Completed 100devs daily problem - was super pumped because I figured this one out right off the bat. Much better than yesterday!
+- ☕️ Listened to @IbrahimCodes share his dev journey. So thankful for his openness (he spilled alll the tea) and incredibly inspired by his story!
+
 ## 7/8/2021 (Day 68)
 
 - 🧩 Completed 100Devs daily problem - was really stumped for ~30mins but finally figured out the answer by examining the test cases. Also learned about the Set data structure in JS!
