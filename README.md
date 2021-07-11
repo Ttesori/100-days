@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 7/11/2021 (Day 71)
+
+- 👩‍💻 Well, uncovered some new issues when testing (of course), so no link for GroceryMapper available yet. But it's so close! In the meantime, here's a fun screenshot of the home/landing page - I love the illustration I found on Storyset 😍
+  ![GroceryMapper landing page](https://grocerymap.app/img/gm-screenshot.png)
+
 ## 7/10/2021 (Day 70)
 
 - 👩‍💻 I still have some testing to do tomorrow, but I think I'm at a solid version 1 stopping place for the React GroceryMapper app! Yay!
