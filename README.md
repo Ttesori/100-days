@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 7/12/2021 (Day 72)
+
+- 👩‍💻 Finished up GroceryMapper and put the link out for the general public to see lol. Holy vulnerability hangover Batman!
+- 👩‍💻 Started up a mini-app to practice React Context/Reducers, more Tailwind (specifically dark themes) and CSS Grid.
+- 🧩 Finished daily 100Devs problem - felt good about my problem-solving process with this one. Feeling much more confident with higher-order functions like map, reduce, etc.
+
 ## 7/11/2021 (Day 71)
 
 - 👩‍💻 Well, uncovered some new issues when testing (of course), so no link for GroceryMapper available yet. But it's so close! In the meantime, here's a fun screenshot of the home/landing page - I love the illustration I found on Storyset 😍
