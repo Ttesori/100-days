@@ -1,6 +1,6 @@
 # 100 Days of Code Log
 
-## 7/14/2021 (Day 73)
+## 7/14/2021 (Day 74)
 
 - 🧩 Completed daily 100Devs problem - this one was on extracting the domain portion of a URL. I immediately jumped to trying to figure it out with regex...only to realize when we reviewed it that it could be solved much easier with .replace() and .split(). Good lesson on creative ways to use these methods!
 
