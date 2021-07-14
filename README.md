@@ -1,5 +1,13 @@
 # 100 Days of Code Log
 
+## 7/14/2021 (Day 73)
+
+- 🧩 Completed daily 100Devs problem - this one was on extracting the domain portion of a URL. I immediately jumped to trying to figure it out with regex...only to realize when we reviewed it that it could be solved much easier with .replace() and .split(). Good lesson on creative ways to use these methods!
+
+## 7/13/2021 (Day 73)
+
+- 🧩 Completed daily 100Devs problem - this one was on filtering duplicate words out of a string. Learned that there is a third parameter for .filter(el, i, arr) that you can use to get the array.
+
 ## 7/12/2021 (Day 72)
 
 - 👩‍💻 Finished up GroceryMapper and put the link out for the general public to see lol. Holy vulnerability hangover Batman!
