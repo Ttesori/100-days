@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 7/15/2021 (Day 75)
+
+- 🧩 Completed daily 100Devs problem - my solution to this was a hot mess express, but after viewing the solution, I saw where I went wrong and was able to clean it up to a one-liner 😂
+- 🛒 Updated my portfolio to add GroceryMapper - woot!
+
 ## 7/14/2021 (Day 74)
 
 - 🧩 Completed daily 100Devs problem - this one was on extracting the domain portion of a URL. I immediately jumped to trying to figure it out with regex...only to realize when we reviewed it that it could be solved much easier with .replace() and .split(). Good lesson on creative ways to use these methods!
