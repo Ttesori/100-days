@@ -3,7 +3,7 @@
 ## 7/15/2021 (Day 75)
 
 - 🧩 Completed daily 100Devs problem - my solution to this was a hot mess express, but after viewing the solution, I saw where I went wrong and was able to clean it up to a one-liner 😂
-- 🛒 Updated my portfolio to add GroceryMapper - woot!
+- 👩‍💻 Updated my portfolio to add GroceryMapper - woot!
 
 ## 7/14/2021 (Day 74)
 
