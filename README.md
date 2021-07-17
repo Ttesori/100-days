@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 7/16/2021 (Day 76)
+
+- 🧩 Completed daily 100Devs problem - good news, everyone: today's solution was much less of a hot mess than yesterday's! 😂
+- 👀 Attended class and was incredibly motivated and inspired by @EdenGebrezgi and @dayheysoos who shared their journeys with us...and spilled all the tea. So thankful for them!
+
 ## 7/15/2021 (Day 75)
 
 - 🧩 Completed daily 100Devs problem - my solution to this was a hot mess express, but after viewing the solution, I saw where I went wrong and was able to clean it up to a one-liner 😂
