@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/17/2021 (Day 77)
+
+- 👩‍💻 Worked on mini app to help me understand the useContext/useReducer combo. I think I understand it now; the only issue I ran into was that since all the pieces of state are connected, they're all re-rendering each time one part is updated. Not sure if I'm doing something wrong or that's just how it works - need to research!
+
 ## 7/16/2021 (Day 76)
 
 - 🧩 Completed daily 100Devs problem - good news, everyone: today's solution was much less of a hot mess than yesterday's! 😂
