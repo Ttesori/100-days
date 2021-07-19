@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/18/2021 (Day 78)
+
+-👩‍💻 Worked more on emoji search mini app - learned how to implement dark mode in Tailwind (holy moly so easy) and did some work to figure out how to speed up search and rendering of such a large dataset (I had no idea there were so many emojis lol). Also played Stardew Family with Olivia because Sunday!
+
 ## 7/17/2021 (Day 77)
 
 - 👩‍💻 Worked on mini app to help me understand the useContext/useReducer combo. I think I understand it now; the only issue I ran into was that since all the pieces of state are connected, they're all re-rendering each time one part is updated. Not sure if I'm doing something wrong or that's just how it works - need to research!
