@@ -2,7 +2,7 @@
 
 ## 7/19/2021 (Day 79)
 
-- Olivia has a friend over for a sleepover so mom duties took priority today! I did manage to complete the daily 100Devs problem, though, and I spent some time on a Squarespace website for a work client. Hoping the kiddos sleep well tonight and I can have a more productive day tomorrow!
+- 👨‍👩‍👧 Olivia has a friend over for a sleepover, so mom duties took priority today! I did manage to complete the daily 100Devs problem, though, and spent some time on a Squarespace website for a work client. Hoping the kiddos sleep well tonight and I can have a more productive day tomorrow!
 
 ## 7/18/2021 (Day 78)
 
