@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/19/2021 (Day 80)
+
+-👩‍💻 Continued work on the React emoji search app! Implemented infinite scrolling and got a bug figured out with dark mode - I needed to change the class name on the root <html> element, not the <body> tag like I originally had implemented! Hoping I can get it deployed to Netlify tomorrow. Also managed to knock out the daily 100Devs problem! 🎉
+
 ## 7/19/2021 (Day 79)
 
 - 👨‍👩‍👧 Olivia has a friend over for a sleepover, so mom duties took priority today! I did manage to complete the daily 100Devs problem, though, and spent some time on a Squarespace website for a work client. Hoping the kiddos sleep well tonight and I can have a more productive day tomorrow!
