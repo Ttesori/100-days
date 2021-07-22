@@ -1,6 +1,11 @@
 # 100 Days of Code Log
 
-## 7/19/2021 (Day 80)
+## 7/21/2021 (Day 81)
+
+- 🧩 Inspired by @blawblawblaw, I worked on a bunch of 8kyu Codewars problems today - still have like 300 to go though 😂
+- 👩‍💻 Deployed my little emoji search app and spent quite some time trying to fix a few minor styling issues. One of them was an 'omg how did I miss that' moment, but that's how it goes!
+
+## 7/20/2021 (Day 80)
 
 -👩‍💻 Continued work on the React emoji search app! Implemented infinite scrolling and got a bug figured out with dark mode - I needed to change the class name on the root <html> element, not the <body> tag like I originally had implemented! Hoping I can get it deployed to Netlify tomorrow. Also managed to knock out the daily 100Devs problem! 🎉
 
