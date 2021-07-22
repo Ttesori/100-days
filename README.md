@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 7/22/2021 (Day 82)
+
+- 👩‍💻 Finally wrapped up the React Emoji Search mini-project! This was really just to practice useContext/useReducer, but I managed to sneak in dark mode, copying to clipboard and infinite scrolling as well. I also tried very hard not to stress about the design too much!
+
 ## 7/21/2021 (Day 81)
 
 - 🧩 Inspired by @blawblawblaw, I worked on a bunch of 8kyu Codewars problems today - still have like 300 to go though 😂
