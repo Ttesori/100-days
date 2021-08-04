@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 8/4/2021 (Day 85)
+
+- 👩‍💻 Spent the day learning about testing in React and implementing it on a mini app (a YOLO game inspired by our 100Devs Twitch classes!)
+- 🤬🤪😎 Talk about a rollercoaster of emotions...I experienced everything from "WTF this makes NO sense" to "ehh I guess I see how testing _may_ be helpful" to "alright FINE this is cool and somehow also kinda fun?"
+
 ## 8/3/2021 (Day 84)
 
 - 👀 Attended 100Devs class on Twitch to go over basic data structures/algorithms and hear the announcement of @hashnode as a new sponsor thanks to @tanoaksam!🎉
