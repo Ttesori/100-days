@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 8/3/2021 (Day 84)
+
+- 👀 Attended 100Devs class on Twitch to go over basic data structures/algorithms and hear the announcement of @hashnode as a new sponsor thanks to @tanoaksam!🎉
+- 🧩 Completed Daily Codewars Problem
+- 🤔 Started brainstorming ideas for portfolio redesign
+
 ## 8/2/2021 (Day 83)
 
 - 👩‍💻 Whoo, back in the saddle for day 83! Spent today getting caught up with the 100Devs daily problems I missed - I felt good about the solutions I came up with...it's good to know everything I learned hasn't disappeared in the week away 😅 Now to figure out what to focus on next...
