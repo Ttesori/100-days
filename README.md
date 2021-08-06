@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+## 8/5/2021 (Day 86)
+
+- 👩‍💻 Worked on finishing up writing tests for my mini React YOLO app (it'll be familiar to my 100Devs folks lol) - still have a few more to write, didn't get a ton of time to work on it today
+- 📝 Began outlining blog post on what I've learned about React testing so far
+- 👀 Attended 100Devs where we learned more about Big O notation
+
 ## 8/4/2021 (Day 85)
 
 - 👩‍💻 Spent the day learning about testing in React and implementing it on a mini app (a YOLO game inspired by our 100Devs Twitch classes!)
