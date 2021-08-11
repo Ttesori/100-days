@@ -3,6 +3,7 @@
 ## 8/10/2021 (Day 91)
 
 - Codewars problem
+- Research on <aside> for tweet
 
 ## 8/9/2021 (Day 90)
 
