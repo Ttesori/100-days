@@ -1,5 +1,26 @@
 # 100 Days of Code Log
 
+## 8/10/2021 (Day 91)
+
+- Codewars problem
+
+## 8/9/2021 (Day 90)
+
+- Codewars problem
+- Mocking up design for YOLO app
+
+## 8/8/2021 (Day 89)
+
+- Codewars Problem
+
+## 8/7/2021 (Day 88)
+
+- Codewars Problem
+
+## 8/6/2021 (Day 87)
+
+- Codewars Problem
+
 ## 8/5/2021 (Day 86)
 
 - 👩‍💻 Worked on finishing up writing tests for my mini React YOLO app (it'll be familiar to my 100Devs folks lol) - still have a few more to write, didn't get a ton of time to work on it today
