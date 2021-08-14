@@ -1,8 +1,12 @@
 # 100 Days of Code Log
 
-## 8/16/2021 (Day 94)
+## 8/16/2021 (Day 95)
 
 - Daily 100Devs problem
+
+## 8/13/21 (Day 94)
+
+- Daily problem
 
 ## 8/12/21 (Day 93)
 
