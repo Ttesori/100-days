@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 8/18/2021 (Day 97)
+
+- Worked on YOLO game styling - trickiest part was styling radio buttons, but made it through that with Stefanie's awesome tutorial. Also got it deployed to Netlify so I can start working out any issues there!
+
 ## 8/17/2021 (Day 96)
 
 - Daily 100Devs problem
