@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+## 8/17/2021 (Day 96)
+
+- Daily 100Devs problem
+- Work on YOLO Game styling
+
 ## 8/16/2021 (Day 95)
 
 - Daily 100Devs problem
