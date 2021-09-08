@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 9/8/2021 (Day 98)
+
+- Left the YOLO game in the dust (for now!) and continued on my 100 Days journey by completing 5 kata on Codewars. And I learned a new JS method - endsWith()!
+
 ## 8/18/2021 (Day 97)
 
 - Worked on YOLO game styling - trickiest part was styling radio buttons, but made it through that with Stefanie's awesome tutorial. Also got it deployed to Netlify so I can start working out any issues there!
