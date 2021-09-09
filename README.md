@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 9/9/2021 (Day 99)
+
+- Completed 5 more Codewars kata - happy to see I'm coming up with the top solution more and more. Planning to start transitioning over to Leetcode soon... 😬
+
 ## 9/8/2021 (Day 98)
 
 - Left the YOLO game in the dust (for now!) and continued on my 100 Days journey by completing 5 kata on Codewars. And I learned a new JS method - endsWith()!
