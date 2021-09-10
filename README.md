@@ -1,5 +1,9 @@
 # 100 Days of Code Log
 
+## 9/10/2021 (Day 100)
+
+- Completed 5 Codewars kata - got stuck on a 8kyu, which was a really humbling day 100 experience. There's always something new to learn and I'm excited to plan the next 100 days 🥳
+
 ## 9/9/2021 (Day 99)
 
 - Completed 5 more Codewars kata - happy to see I'm coming up with the top solution more and more. Planning to start transitioning over to Leetcode soon... 😬
