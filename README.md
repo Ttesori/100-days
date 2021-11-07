@@ -168,6 +168,12 @@ After a week where I've struggled to open up any coding projects, it was fantast
 
 - Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
 
+# Other
+
+## 11/6/2021
+
+- Completed 3 kata
+
 # Round 1
 
 ## 9/10/2021 (Day 100)
