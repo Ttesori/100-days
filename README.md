@@ -1,4 +1,10 @@
-# 100 Days of Code Log
+# 100 Days of Code Log - Round 2
+
+## 1/2/2021 (Day 1)
+
+- Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
+
+# Round 1
 
 ## 9/10/2021 (Day 100)
 
