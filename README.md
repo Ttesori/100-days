@@ -1,16 +1,16 @@
 # 100 Days of Code Log - Round 2
 
-## 1/2/2021 (Day 1)
+## 1/4/2021 (Day 3)
 
-- Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
+- Completed more kata and started examining my MathChamp project to see what enhancements I can make.
 
 ## 1/3/2021 (Day 2)
 
 - Completed more kata and started reviewing Javascript with Scrimba.
 
-## 1/4/2021 (Day 3)
+## 1/2/2021 (Day 1)
 
-- Completed more kata and started examining my MathChamp project to see what enhancements I can make.
+- Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
 
 # Round 1
 
