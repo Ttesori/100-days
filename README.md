@@ -4,6 +4,10 @@
 
 - Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
 
+## 1/3/2021 (Day 2)
+
+- Completed more kata and started reviewing Javascript with Scrimba.
+
 # Round 1
 
 ## 9/10/2021 (Day 100)
