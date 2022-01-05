@@ -1,12 +1,16 @@
 # 100 Days of Code Log - Round 2
 
+## 1/5/2021 (Day 4)
+
+- Worked through Building Pac-Man on Scrimba, identified enhancements to make to MathChamp and entered issues on Github.
+
 ## 1/4/2021 (Day 3)
 
-- Completed more kata and started examining my MathChamp project to see what enhancements I can make.
+- Completed more kata and started examining my MathChamp project to see what enhancements I can make
 
 ## 1/3/2021 (Day 2)
 
-- Completed more kata and started reviewing Javascript with Scrimba.
+- Completed more kata and started reviewing Javascript with Scrimba
 
 ## 1/2/2021 (Day 1)
 
