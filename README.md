@@ -8,6 +8,10 @@
 
 - Completed more kata and started reviewing Javascript with Scrimba.
 
+## 1/4/2021 (Day 3)
+
+- Completed more kata and started examining my MathChamp project to see what enhancements I can make.
+
 # Round 1
 
 ## 9/10/2021 (Day 100)
