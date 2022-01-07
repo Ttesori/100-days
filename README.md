@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/6/2021 (Day 5)
+
+- Worked on Codewars problems, but day got derailed a bit by real work. Will pick it back up tomorrow!
+
 ## 1/5/2021 (Day 4)
 
 - Worked through Building Pac-Man on Scrimba, identified enhancements to make to MathChamp and entered issues on Github.
