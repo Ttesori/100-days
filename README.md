@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/7/2021 (Day 6)
+
+- Completed more Codewars problems. Day got hectic with kiddo going back to school and various home tasks, so only had 30 minutes to code. Working on giving myself grace and believing something is better than nothing!
+
 ## 1/6/2021 (Day 5)
 
 - Worked on Codewars problems, but day got derailed a bit by real work. Will pick it back up tomorrow!
