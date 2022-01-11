@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/10/2021 (Day 7)
+
+- Watched 100Devs office hours to gear up for the new cohort and get me back in the learning mindset. Had some disrupted sleep so this was enough for me today!
+
 ## 1/7/2021 (Day 6)
 
 - Completed more Codewars problems. Day got hectic with kiddo going back to school and various home tasks, so only had 30 minutes to code. Working on giving myself grace and believing something is better than nothing!
