@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/12/2021 (day 9)
+
+- Completed several Codewars problems and another MathChamp bugfix. Have apparently completely forgotten how to organize decks in Anki, so spent some time trying to figure that out too!
+
 ## 1/11/2021 (Day 8)
 
 - Knocked out some Codewars and a bugfix for my MathChamp project from round 1. Attended 100Devs class and was totally awed by the turnout - from 300ish last cohort to 7k+ tonight! Can't wait to work with all these lovely folx!
