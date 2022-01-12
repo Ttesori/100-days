@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/11/2021 (Day 8)
+
+- Knocked out some Codewars and a bugfix for my MathChamp project from round 1. Attended 100Devs class and was totally awed by the turnout - from 300ish last cohort to 7k+ tonight! Can't wait to work with all these lovely folx!
+
 ## 1/10/2021 (Day 7)
 
 - Watched 100Devs office hours to gear up for the new cohort and get me back in the learning mindset. Had some disrupted sleep so this was enough for me today!
