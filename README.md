@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/13/2021 (Day 10)
+
+- Completed enhancement to MathChamp to randomize the operators. Still have to do some testing, but this wasn't too bad considering I initially wrote this code 6 months ago!
+
 ## 1/12/2021 (day 9)
 
 - Completed several Codewars problems and another MathChamp bugfix. Have apparently completely forgotten how to organize decks in Anki, so spent some time trying to figure that out too!
