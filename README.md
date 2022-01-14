@@ -2,7 +2,7 @@
 
 ## 1/13/2021 (Day 10)
 
-- Completed enhancement to MathChamp to randomize the operators. Still have to do some testing, but this wasn't too bad considering I initially wrote this code 6 months ago!
+- Completed enhancement to MathChamp to randomize the operators. Still have to do some testing, but this wasn't too bad considering I initially wrote this code 6 months ago! Also attended 100Devs class - another fantastic one!
 
 ## 1/12/2021 (day 9)
 
