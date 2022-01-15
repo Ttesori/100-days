@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/15/2021 (Day 11)
+
+- Finished testing of randomized operators on MathChamp and changed scoreboard to be sorted from newest scores to oldest scores and deployed all changes! Love approving my own pull requests 😂
+
 ## 1/13/2021 (Day 10)
 
 - Completed enhancement to MathChamp to randomize the operators. Still have to do some testing, but this wasn't too bad considering I initially wrote this code 6 months ago! Also attended 100Devs class - another fantastic one!
