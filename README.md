@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/16/2021 (Day 12)
+
+- Wrapped up fixes and enhancements on MathChamp (link below!). Then started @frontendmentor Tip Calculator project for extra practice in structuring a vanilla JS project - really enjoying it so far. I hadn't styled radio buttons as classic buttons before, so that was a fun challenge!
+
 ## 1/15/2021 (Day 11)
 
 - Finished testing of randomized operators on MathChamp and changed scoreboard to be sorted from newest scores to oldest scores and deployed all changes! Love approving my own pull requests 😂
