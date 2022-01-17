@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/17/2021 (Day 13)
+
+- Continued working on Tip Calculator project - finished basic mobile styling and started working out how to structure JS. In the styling process, reminded myself that I needed to use fr units (instead of %) with CSS grid so they don't overflow their container when using column-gap!
+
 ## 1/16/2021 (Day 12)
 
 - Wrapped up fixes and enhancements on MathChamp (link below!). Then started @frontendmentor Tip Calculator project for extra practice in structuring a vanilla JS project - really enjoying it so far. I hadn't styled radio buttons as classic buttons before, so that was a fun challenge!
