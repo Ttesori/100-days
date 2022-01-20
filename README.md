@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 1/20/2021 (Day 16)
+
+- Finished few remaining odds and ends for Tip Calculator project, then deployed it to Netlify! Now on to adding Anki cards for new concepts that came up during development.
+
+## 1/19/2021 (Day 15)
+
+- Continued working on Tip Calc project - finished field validation/error messages and desktop design. Next up: a few styling odds and ends, then testing and deployment!
+
 ## 1/18/2021 (Day 14)
 
 - More work on the Frontend Mentor Tip Calculator project - have basic functionality working now, yay! Good practice on working with radio buttons, both in terms of styling and manipulating them with JS. Then, #100devs class time with 6500 of my closest friends! 😂
