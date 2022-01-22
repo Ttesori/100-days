@@ -2,7 +2,7 @@
 
 ## 1/21/2021 (Day 17)
 
-- Noticed a small bug on my portfolio site, so I fixed that...and then started coming up with ideas on a redesign (like you do lol)
+- Noticed a small bug on my portfolio site, so I fixed that, then did what any developer would do: start coming up with ideas for a redesign 😂
 
 ## 1/20/2021 (Day 16)
 
