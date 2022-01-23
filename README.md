@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/22/2021 (Day 18)
+
+- Mainly a family day, but knocked out 2 quick Codewars kata!
+
 ## 1/21/2021 (Day 17)
 
 - Noticed a small bug on my portfolio site, so I fixed that, then did what any developer would do: start coming up with ideas for a redesign 😂
