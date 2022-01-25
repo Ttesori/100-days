@@ -2,6 +2,8 @@
 
 ## 1/25/2022 (Day 20)
 
+- Continued coding new portfolio design; tweaked colors and a bit of functionality on MathChamp to make it more accessible.
+
 ## 1/24/2022 (Day 19)
 
 - Worked on new portfolio design, began coding with accessibility in mind!
