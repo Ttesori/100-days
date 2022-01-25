@@ -1,78 +1,80 @@
 # 100 Days of Code Log - Round 2
 
-## 1/24/2021 (Day 19)
+## 1/25/2022 (Day 20)
+
+## 1/24/2022 (Day 19)
 
 - Worked on new portfolio design, began coding with accessibility in mind!
 
-## 1/22/2021 (Day 18)
+## 1/22/2022 (Day 18)
 
 - Mainly a family day, but knocked out 2 quick Codewars kata!
 
-## 1/21/2021 (Day 17)
+## 1/21/2022 (Day 17)
 
 - Noticed a small bug on my portfolio site, so I fixed that, then did what any developer would do: start coming up with ideas for a redesign 😂
 
-## 1/20/2021 (Day 16)
+## 1/20/2022 (Day 16)
 
 - Finished few remaining odds and ends for Tip Calculator project, then deployed it to Netlify! Now on to adding Anki cards for new concepts that came up during development.
 
-## 1/19/2021 (Day 15)
+## 1/19/2022 (Day 15)
 
 - Continued working on Tip Calc project - finished field validation/error messages and desktop design. Next up: a few styling odds and ends, then testing and deployment!
 
-## 1/18/2021 (Day 14)
+## 1/18/2022 (Day 14)
 
 - More work on the Frontend Mentor Tip Calculator project - have basic functionality working now, yay! Good practice on working with radio buttons, both in terms of styling and manipulating them with JS. Then, #100devs class time with 6500 of my closest friends! 😂
 
-## 1/17/2021 (Day 13)
+## 1/17/2022 (Day 13)
 
 - Continued working on Tip Calculator project - finished basic mobile styling and started working out how to structure JS. In the styling process, reminded myself that I needed to use fr units (instead of %) with CSS grid so they don't overflow their container when using column-gap!
 
-## 1/16/2021 (Day 12)
+## 1/16/2022 (Day 12)
 
 - Wrapped up fixes and enhancements on MathChamp (link below!). Then started @frontendmentor Tip Calculator project for extra practice in structuring a vanilla JS project - really enjoying it so far. I hadn't styled radio buttons as classic buttons before, so that was a fun challenge!
 
-## 1/15/2021 (Day 11)
+## 1/15/2022 (Day 11)
 
 - Finished testing of randomized operators on MathChamp and changed scoreboard to be sorted from newest scores to oldest scores and deployed all changes! Love approving my own pull requests 😂
 
-## 1/13/2021 (Day 10)
+## 1/13/2022 (Day 10)
 
 - Completed enhancement to MathChamp to randomize the operators. Still have to do some testing, but this wasn't too bad considering I initially wrote this code 6 months ago! Also attended 100Devs class - another fantastic one!
 
-## 1/12/2021 (day 9)
+## 1/12/2022 (day 9)
 
 - Completed several Codewars problems and another MathChamp bugfix. Have apparently completely forgotten how to organize decks in Anki, so spent some time trying to figure that out too!
 
-## 1/11/2021 (Day 8)
+## 1/11/2022 (Day 8)
 
 - Knocked out some Codewars and a bugfix for my MathChamp project from round 1. Attended 100Devs class and was totally awed by the turnout - from 300ish last cohort to 7k+ tonight! Can't wait to work with all these lovely folx!
 
-## 1/10/2021 (Day 7)
+## 1/10/2022 (Day 7)
 
 - Watched 100Devs office hours to gear up for the new cohort and get me back in the learning mindset. Had some disrupted sleep so this was enough for me today!
 
-## 1/7/2021 (Day 6)
+## 1/7/2022 (Day 6)
 
 - Completed more Codewars problems. Day got hectic with kiddo going back to school and various home tasks, so only had 30 minutes to code. Working on giving myself grace and believing something is better than nothing!
 
-## 1/6/2021 (Day 5)
+## 1/6/2022 (Day 5)
 
 - Worked on Codewars problems, but day got derailed a bit by real work. Will pick it back up tomorrow!
 
-## 1/5/2021 (Day 4)
+## 1/5/2022 (Day 4)
 
 - Worked through Building Pac-Man on Scrimba, identified enhancements to make to MathChamp and entered issues on Github.
 
-## 1/4/2021 (Day 3)
+## 1/4/2022 (Day 3)
 
 - Completed more kata and started examining my MathChamp project to see what enhancements I can make
 
-## 1/3/2021 (Day 2)
+## 1/3/2022 (Day 2)
 
 - Completed more kata and started reviewing Javascript with Scrimba
 
-## 1/2/2021 (Day 1)
+## 1/2/2022 (Day 1)
 
 - Completed 5 Codewars kata - wanted to ease back into the coding groove and 8kyus are the perfect way to do it 😂
 
