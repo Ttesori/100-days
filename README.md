@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/24/2021 (Day 19)
+
+- Worked on new portfolio design, began coding with accessibility in mind!
+
 ## 1/22/2021 (Day 18)
 
 - Mainly a family day, but knocked out 2 quick Codewars kata!
