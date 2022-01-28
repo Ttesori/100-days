@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 1/27/2022 (Day 21)
+
+- More coding of the new portfolio design - almost have basic mobile styles done, whee! Now hanging out and practicing CSS with the #100devs crew! 🍕
+
 ## 1/25/2022 (Day 20)
 
 - Continued coding new portfolio design; tweaked colors and a bit of functionality on MathChamp to make it more accessible.
