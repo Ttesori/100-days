@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 1/29/2022 (Day 23)
+
+- Took a break from portfolio to work on a quick API project to refresh my memory on fetch. It turned into a half-day escapade into Netlify Functions because I wanted to figure out how to hide my API key. It took several Youtube videos and lots of fiddling, but I finally got it to work!
+
+## 1/28/2022 (Day 22)
+
+- Continued working on portfolio design!
+
 ## 1/27/2022 (Day 21)
 
 - More coding of the new portfolio design - almost have basic mobile styles done, whee! Now hanging out and practicing CSS with the #100devs crew! 🍕
