@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 2/1/2022 (Day 24)
+
+- Feeling a bit stuck on the portfolio, so I reverted back to my standby of knocking out some Codewars. Also spent some time going through the Wordle JS code...because I was curious lol. Finished up the day with a networking pep talk courtesy of Leon and #100devs!
+
 ## 1/29/2022 (Day 23)
 
 - Took a break from portfolio to work on a quick API project to refresh my memory on fetch. It turned into a half-day escapade into Netlify Functions because I wanted to figure out how to hide my API key. It took several Youtube videos and lots of fiddling, but I finally got it to work!
