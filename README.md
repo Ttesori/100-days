@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 2/2/2022 (Day 25)
+
+- Jumped back into portfolio, mainly working on responsiveness. TBH it's a tedious climb through the various screen sizes, but I'm finally (finally!) to desktop size, so the finish line is in sight! 🎉
+
 ## 2/1/2022 (Day 24)
 
 - Feeling a bit stuck on the portfolio, so I reverted back to my standby of knocking out some Codewars. Also spent some time going through the Wordle JS code...because I was curious lol. Finished up the day with a networking pep talk courtesy of Leon and #100devs!
