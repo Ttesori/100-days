@@ -2,7 +2,7 @@
 
 ## 2/2/2022 (Day 25)
 
-- Jumped back into portfolio, mainly working on responsiveness. TBH it's a tedious climb through the various screen sizes, but I'm finally (finally!) to desktop size, so the finish line is in sight! 🎉
+- Jumped back into portfolio, mainly working on responsiveness. TBH it's a tedious climb through the various screen sizes, but I'm finally to desktop size, so the finish line is in sight! Also, I thought I was a Flexbox person, but I think Grid is clicking for me this time... 🎉
 
 ## 2/1/2022 (Day 24)
 
