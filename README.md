@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 2/9/2022 (Day 27)
+
+- More portfolio tweaking - super fun!
+
 ## 2/8/2022 (Day 26)
 
 - Still slogging through coding the portfolio update, but so close to the end! Also, my big win of the day was conquering my fear of networking. I actually got on Remo with the #100devs crew - and even turned my video on 😱 Everyone was lovely, naturally, and I survived. Now it's time for a post-vulnerability crash 🤣
