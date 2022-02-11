@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 2/11/2022 (Day 29)
+
+- Just about finished with the portfolio, yay! Figured out scrolling effects with Intersection Observer and about ready to deploy. Also hit under 150 8kyu kata left!
+
+## 2/10/2022 (Day 28)
+
+- More portfolio work and a great 100Devs session complete with a Leon Pep Talk!
+
 ## 2/9/2022 (Day 27)
 
 - More portfolio tweaking - super fun!
