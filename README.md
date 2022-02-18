@@ -1,8 +1,10 @@
 # 100 Days of Code Log - Round 2
 
-## 2/17/2022 (Day 30)
+## 2/18/2022 (Day 31)
 
-After a week where I've struggled to open up any coding projects, it was fantastic to hang out with the 100Devs crew and be regaled with the Independence Day is a True Story/Binary Upload Boom tale once again. Jumping back in tomorrow - if nothing else, I'm knocking out some Codewars!
+- Deployed new portfolio (yay!) and knocked out a bunch of Codewars - down to 119 8kyus remaining!
+
+## 2/17/2022 (Day 30)
 
 ## 2/11/2022 (Day 29)
 
