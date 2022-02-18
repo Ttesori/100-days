@@ -6,6 +6,8 @@
 
 ## 2/17/2022 (Day 30)
 
+After a week where I've struggled to open up any coding projects, it was fantastic to hang out with the 100Devs crew and be regaled with the Independence Day is a True Story/Binary Upload Boom tale once again. Jumping back in tomorrow - if nothing else, I'm knocking out some Codewars!
+
 ## 2/11/2022 (Day 29)
 
 - Just about finished with the portfolio, yay! Figured out scrolling effects with Intersection Observer and about ready to deploy. Also hit under 150 8kyu kata left!
