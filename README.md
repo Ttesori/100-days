@@ -18,7 +18,7 @@
 
 ## 2/22/2022 (Day 33)
 
-- Continued working on Wordle clone project, the React memories are starting to flood back. Will definitely be ready to get back to GroceryMapper after this!
+- Continued working on Wordle clone project, the React memories are starting to flood back. Will definitely be ready to get back to GroceryMapper soon!
 
 ## 2/21/2022 (Day 32)
 
