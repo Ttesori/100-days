@@ -1,5 +1,17 @@
 # 100 Days of Code Log - Round 2
 
+## 2/24/2022 (Day 34)
+
+- More work on Wordle clone, got basic functionality working. Need to implement game over modal with sharing code (thinking on how to make this accessible). Also knocked out 10 Codewars kata!
+
+## 2/22/2022 (Day 33)
+
+- Continued working on Wordle clone project, the React memories are starting to flood back. Will definitely be ready to get back to GroceryMapper after this!
+
+## 2/21/2022 (Day 32)
+
+- Sick, but stuck in bed so starting getting back into react by writing a Wordle clone, but with 6 letter words and no repeating letters.
+
 ## 2/18/2022 (Day 31)
 
 - Deployed new portfolio (yay!) and knocked out a bunch of Codewars - down to 119 8kyus remaining!
