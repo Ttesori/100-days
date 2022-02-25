@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 2/25/2022 (Day 35)
+
+- Completed 15 more kata today - under 100 8kyus left!
+
 ## 2/24/2022 (Day 34)
 
 - More work on Wordle clone, got basic functionality working. Need to implement game over modal with sharing code (thinking on how to make this accessible). Also knocked out 10 Codewars kata!
