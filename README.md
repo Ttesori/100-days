@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 3/1/2022 (Day 37)
+
+- More kata today! Also went back to ExpenseTracker, a Node project from last year to double-check the color accessibility and fix a few lingering bugs. Wrapped up the day with a great #100Devs class on freelancing!
+
+## 2/28/2022 (Day 36)
+
+- More kata today!
+
 ## 2/25/2022 (Day 35)
 
 - Completed 15 more kata today - under 100 8kyus left!
