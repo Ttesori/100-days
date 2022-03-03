@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 3/3/2022 (Day 39)
+
+- 5 kata today - lacking focus?
+
 ## 3/2/2022 (Day 38)
 
 - Whittling down the 8kyu kata - 81 left now! Also continued work on the ExpenseTracker Node app I worked on last year, fixed a couple of bugs and started to work through the A11yProject checklist.
