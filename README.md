@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 3/4/2022 (Day 40)
+
+- Putting all the MERN stack pieces together by finally tackling integrating JWT authentication into a new full-stack app to track hikes (hey we can totally hike in Florida...kind of)
+
 ## 3/3/2022 (Day 39)
 
 - 5 kata today - lacking focus?
