@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 3/5/2022 (Day 41)
+
+- Continued working on full-stack MERN application; finished basic backend and working on frontend. It's great to be back in React after some time away, its little quirks are coming back to me (mostly lol)
+
 ## 3/4/2022 (Day 40)
 
 - Putting all the MERN stack pieces together by finally tackling integrating JWT authentication into a new full-stack app to track hikes (hey we can totally hike in Florida...kind of)
