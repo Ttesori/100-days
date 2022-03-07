@@ -2,7 +2,7 @@
 
 ## 3/6/2022 (Day 42)
 
-- Began implementing routing and context; worked on basic design ideas in Adobe XD.
+- Began implementing routing and context in Footsteps hike tracker app; worked on basic design ideas in Adobe XD.
 
 ## 3/5/2022 (Day 41)
 
