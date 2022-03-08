@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 3/7/2022 (Day 43)
+
+- Continued working on hike tracker React app - added modals for create/edit/delete, searching title/location/notes and filtering by date with big help from Day.js!
+
 ## 3/6/2022 (Day 42)
 
 - Began implementing routing and context in Footsteps hike tracker app; worked on basic design ideas in Adobe XD.
