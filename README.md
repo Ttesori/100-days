@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 3/9/2022 (Day 45)
+
+- Worked on attempting to abstract fetch behavior into a hook, but wasn't playing well with context. Instead of obsessing over optimization, decided to let it go and start prepping to begin styling instead.
+
+## 3/8/2022 (Day 44)
+
+- Rough day, but completed 3 kata.
+
 ## 3/7/2022 (Day 43)
 
 - Continued working on hike tracker React app - added modals for create/edit/delete, searching title/location/notes and filtering by date with big help from Day.js!
