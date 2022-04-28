@@ -1,5 +1,21 @@
 # 100 Days of Code Log - Round 2
 
+## 4/18-21 (Days 56-59)
+
+- Codewars
+
+## 4/13-15 (Days 53-55)
+
+- Codewars
+
+## 3/24, 3/30-31 (Days 50-52)
+
+- Codewars
+
+## 3/10-11,13-14/2022 (Day 46-49)
+
+- Codewars
+
 ## 3/9/2022 (Day 45)
 
 - Worked on attempting to abstract fetch behavior into a hook, but wasn't playing well with context. Instead of obsessing over optimization, decided to let it go and start prepping to begin styling instead.
