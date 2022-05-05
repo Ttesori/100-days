@@ -1,5 +1,17 @@
 # 100 Days of Code Log - Round 2
 
+## 5/5/22 (Day 64)
+
+- Codewars!
+
+## 5/2/22 (Day 63)
+
+- Codewars
+
+## 4/26-27, 4/29 (Days 60-62)
+
+- Codewars
+
 ## 4/18-21 (Days 56-59)
 
 - Codewars
