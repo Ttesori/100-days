@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/9-10 (Day 66-7)
+
+- More codewars!
+
 ## 5/5-6 (Day 64-5)
 
 - Codewars!
