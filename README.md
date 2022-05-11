@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/11
+
+- 8 8kyus today - only 15 left!
+
 ## 5/9-10 (Day 66-7)
 
 - More codewars!
