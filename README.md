@@ -1,6 +1,10 @@
 # 100 Days of Code Log - Round 2
 
-## 5/11
+## 5/12 (Day 69)
+
+- 9 kata today - including this very interesting/frustrating one (https://www.codewars.com/kata/57080f21d531cd94950007eb/train/javascript) Only 6 left!
+
+## 5/11 (Day 68)
 
 - 8 8kyus today - only 15 left!
 
