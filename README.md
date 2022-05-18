@@ -1,5 +1,17 @@
 # 100 Days of Code Log - Round 2
 
+## 5/18 (73)
+
+- 3 Codewars kata, got back into Footsteps and was able to get it up and running on my new computer (after having to quickly implement the ability to reset a password because I definitely forgot mine for my test account LOL)
+
+## 5/17 (72)
+
+- 3 Codewars kata
+
+## 5/16 (71)
+
+- 3 Codewars kata
+
 ## 5/13 (Day 70)
 
 - 3 7kyu kata today - feels great ot be out of the 8's!
