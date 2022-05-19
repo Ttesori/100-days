@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/19 (74)
+
+- 3 Codewars kata, 100Devs class on beginning Node
+
 ## 5/18 (73)
 
 - 3 Codewars kata, got back into Footsteps and was able to get it up and running on my new computer (after having to quickly implement the ability to reset a password because I definitely forgot mine for my test account LOL)
