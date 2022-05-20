@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/20 (75)
+
+- 1 Codewars kata to keep my commit streak going, spent most of my time finishing up last night's class, working on professional links.
+
 ## 5/19 (74)
 
 - 3 Codewars kata, 100Devs class on beginning Node
