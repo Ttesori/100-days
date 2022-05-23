@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/23 (76)
+
+- Completed 3 kata (learned about triangular numbers), figured out a game plan for moving forward on Footsteps - will be working on styling for the forseeable future - I always underestimate how much time this takes!
+
 ## 5/20 (75)
 
 - 1 Codewars kata to keep my commit streak going, spent most of my time finishing up last night's class, working on professional links.
