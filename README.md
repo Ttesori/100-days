@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/26 (79)
+
+- Completed 3 kata, finished styling hikes list header
+
 ## 5/25 (78)
 
 - Completed 3 kata
