@@ -1,5 +1,13 @@
 # 100 Days of Code Log - Round 2
 
+## 5/25 (78)
+
+- Completed 3 kata
+
+## 5/24 (77)
+
+- Completed 3 kata
+
 ## 5/23 (76)
 
 - Completed 3 kata (learned about triangular numbers), figured out a game plan for moving forward on Footsteps - will be working on styling for the forseeable future - I always underestimate how much time this takes!
