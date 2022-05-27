@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 5/27 (71)
+
+- Completed 3 kata, worked on coin flip game for 100Devs
+
 ## 5/26 (79)
 
 - Completed 3 kata, finished styling hikes list header
