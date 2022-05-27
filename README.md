@@ -2,7 +2,7 @@
 
 ## 5/27 (71)
 
-- Completed 3 kata, worked on coin flip game for 100Devs
+- Completed 3 kata, worked on server-side coin flip assignment for 100Devs
 
 ## 5/26 (79)
 
