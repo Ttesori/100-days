@@ -1,6 +1,18 @@
 # 100 Days of Code Log - Round 2
 
-## 5/27 (71)
+## 6/1
+
+- Footsteps styling, watched 100Devs from last night, created simple coinflip Node server homework
+
+## 5/31 (82)
+
+- 1 kata
+
+## 5/30 (81)
+
+- 1 kata
+
+## 5/27 (80)
 
 - Completed 3 kata, worked on server-side coin flip assignment for 100Devs
 
