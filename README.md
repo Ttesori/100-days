@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 6/2 (84)
+
+- Footsteps styling, 3 kata, finished 100Devs, watched event loop videos
+
 ## 6/1
 
 - Footsteps styling, watched 100Devs from last night, created simple coinflip Node server homework
