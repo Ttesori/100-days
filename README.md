@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 6/3 (85)
+
+- Tweaked colors API, 3 kata, replied to tweets, attended CAR behavioral questions class
+
 ## 6/2 (84)
 
 - Footsteps styling, 3 kata, finished 100Devs, watched event loop videos
