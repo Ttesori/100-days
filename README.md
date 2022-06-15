@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 6/13-15 (86-88)
+
+- 3 kata each day
+
 ## 6/3 (85)
 
 - Tweaked colors API, 3 kata, replied to tweets, attended CAR behavioral questions class
