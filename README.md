@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 6/16-17 (89 - 90)
+
+- Discovered the 100Devs clan leaderboard on Codewars, so spent some time trying to work my way up. Completed 12 kata and moved up to 64 from 80ish.
+
 ## 6/13-15 (86-88)
 
 - 3 kata each day
