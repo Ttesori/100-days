@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 7/27 (92)
+
+- Continued work on Footsteps, decided just to do mobile version. Made lots of styling progress and hoping to finish up soon. Also did some Codewars!
+
 ## 7/26 (91)
 
 - Commented express-todo-list code for 100Devs, great refresher on express; opened back up Footsteps hiking app and got reacquainted with it, updated a link on my portfolio that was no longer working
