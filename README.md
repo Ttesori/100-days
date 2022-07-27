@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 7/26 (91)
+
+- Commented express-todo-list code for 100Devs, great refresher on express; opened back up Footsteps hiking app and got reacquainted with it, updated a link on my portfolio that was no longer working
+
 ## 6/16-17 (89 - 90)
 
 - Discovered the 100Devs clan leaderboard on Codewars, so spent some time trying to work my way up. Completed 12 kata and moved up to 64 from 80ish.
