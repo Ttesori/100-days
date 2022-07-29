@@ -1,5 +1,9 @@
 # 100 Days of Code Log - Round 2
 
+## 7/28 (93)
+
+- Continued work on Footsteps, figured out filtering and sorting. Added register functionality and got both front and back end deployed.
+
 ## 7/27 (92)
 
 - Continued work on Footsteps, decided just to do mobile version. Made lots of styling progress and hoping to finish up soon. Also did some Codewars!
